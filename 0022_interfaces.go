@@ -6,7 +6,7 @@ import (
 )
 
 type geometry interface {
-	are a() float64
+	area() float64
 	perim() float64
 }
 
